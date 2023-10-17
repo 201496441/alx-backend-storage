@@ -1,0 +1,2 @@
+// create MongoDB
+use my_db;
